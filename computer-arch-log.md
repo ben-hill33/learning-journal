@@ -1,4 +1,4 @@
-#Computer Architecture and Logic
+# Computer Architecture and Logic
 - There are four elements to a computer that makes it work:
 1. Input
 1. Storage
