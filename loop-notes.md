@@ -1,0 +1,7 @@
+# Loops
+- Loops check a condition. If it returns true, a code block will run. Then the condition will be checked again and if it still returns **true**, the code block will run again. It repeats until the condition returns fals. There are 3 common types of loops:
+1. **For** - If you need to run code a specific number of times, use a **for** loop. for is the most common loop. In a **for** loop, the condition is usually a counter which is used to tell how many times the loop should run. 
+1. **While** If you don't know how many times the code should run, you can use a **while** loop. Here the condition can be something other than a counter, and the code will continue to loop for as long as the condition is **true**.
+1. **DO WHILE** The **do...while** loop is very similar to the **while** loop, but has one key difference: it will always run the statements inside the curly braces at least once, even if the condition evaluates to be false. 
+## 3 points to consider with loops
+- Keywords: **Break** - This keyword causes the termination of the loop and tells the interpreter to go onto the next statement of code outside of the loop. (you may also see it used in functions). **Continue** - This keyword tells the interpreter to continue with the current iteration, and then check the condition again. (If it is true, the code runs again.)
