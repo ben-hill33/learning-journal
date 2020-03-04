@@ -6,5 +6,5 @@
 - [Javascript notes](js-notes.md)
 - [Computer Architecture and Logic](computer-arch-log.md)
 - [Javascript Function](function-notes.md)
-
+- [Loops](loop-notes.md)
 
